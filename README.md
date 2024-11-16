@@ -32,11 +32,11 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://github.com/LoneBrokeBoy/Contact-form/assets/91601992/99945c1c-ed18-49c8-8f25-68da471d2951)
+![image](https://github.com/TwinkleByte/Contact-form/assets/91601992/99945c1c-ed18-49c8-8f25-68da471d2951)
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/LoneBrokeBoy/Contact-form)
+- Solution URL: [Solution](https://github.com/TwinkleByte/Contact-form)
 - Live Site URL: [Live Site](https://lonebrokeboy.github.io/Contact-form/)
 
 ## My process
@@ -135,5 +135,5 @@ document.getElementById('support-request').addEventListener('click', function() 
 
 ## Author
 
-- Frontend Mentor - [@LoneBrokeBoy](https://www.frontendmentor.io/profile/LoneBrokeBoy)
-- Github - [@LoneBrokeBoy](https://github.com/LoneBrokeBoy)
+- Frontend Mentor - [@TwinkleByte](https://www.frontendmentor.io/profile/TwinkleByte)
+- Github - [@TwinkleByte](https://github.com/TwinkleByte)
